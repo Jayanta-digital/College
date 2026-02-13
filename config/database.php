@@ -10,16 +10,16 @@
  */
 
 // Supabase Configuration
-define('SUPABASE_URL', 'https://your-project-ref.supabase.co');
-define('SUPABASE_KEY', 'your-anon-public-key-here');
+define('SUPABASE_URL', 'https://fqpeckoatooxypzunnyi.supabase.co');
+define('SUPABASE_KEY', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZxcGVja29hdG9veHlwenVubnlpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA5NjIyNTMsImV4cCI6MjA4NjUzODI1M30.0XrJSmZayJ3lz3edToffyYqZjoe2yyfCzToPBDRdjb8);
 
 // Database Connection using PDO (PostgreSQL)
 // Supabase uses PostgreSQL, get connection details from Settings > Database
-define('DB_HOST', 'db.your-project-ref.supabase.co');
+define('DB_HOST', 'db.fqpeckoatooxypzunnyi.supabase.co');
 define('DB_PORT', '5432');
 define('DB_NAME', 'postgres');
 define('DB_USER', 'postgres');
-define('DB_PASS', 'your-database-password');
+define('DB_PASS', 'Kumar212@212');
 
 // Create PDO connection
 try {
